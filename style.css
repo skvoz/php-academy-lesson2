@@ -1,0 +1,12 @@
+html {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.first {
+    color: red;
+}
+
+#test {
+    font-size: 25px;
+}
